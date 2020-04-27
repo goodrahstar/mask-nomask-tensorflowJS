@@ -5,6 +5,8 @@ My last weekend was spent building #COVID19 mask-nomask model. 🙂-😷
 
 Using  #DeepLearning and @TensorFlowJS to detect mask on face.
 
+Dataset: https://github.com/VirajDeshwal/mask-detection-dataset
+
 [![Watch the video](https://github.com/goodrahstar/mask-nomask-tensorflowJS/blob/master/mask-nomask%20demo%20vid.mov?raw=true)](https://github.com/goodrahstar/mask-nomask-tensorflowJS/blob/master/mask-nomask%20demo%20vid.mov?raw=true)
 
 Twitter post: https://twitter.com/hellorahulk/status/1249687852696219650
